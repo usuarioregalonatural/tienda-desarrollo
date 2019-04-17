@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c7c77fc-4f97-46ae-ba2b-8b55b8228090" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/xml/blog-es.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/front/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/front/ProductController.php" afterDir="false" />
-    </list>
+    <list default="true" id="1c7c77fc-4f97-46ae-ba2b-8b55b8228090" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -210,12 +205,20 @@
       <workItem from="1554143656075" duration="710000" />
       <workItem from="1555085197978" duration="8277000" />
       <workItem from="1555318974070" duration="156000" />
-      <workItem from="1555319514527" duration="15270000" />
+      <workItem from="1555319514527" duration="16609000" />
     </task>
+    <task id="LOCAL-00001" summary="Se incluye la personalización de las letras de jabon">
+      <created>1555438320840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555438320840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36879000" />
+    <option name="totallyTimeSpent" value="38218000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -235,8 +238,8 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32943678" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
@@ -256,6 +259,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se incluye la personalización de las letras de jabon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se incluye la personalización de las letras de jabon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

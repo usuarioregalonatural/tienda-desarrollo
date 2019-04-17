@@ -1250,7 +1250,7 @@ class ProductControllerCore extends ProductPresentingFrontControllerCore
 // cerramos la sesión cURL
         curl_close ($ch);
 
-        echo "Este es el link:" . $remote_server_output;
+//        echo "Este es el link:" . $remote_server_output;
 
 // Mostramos la ventana emergente
         ?>
